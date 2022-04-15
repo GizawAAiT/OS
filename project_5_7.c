@@ -20,6 +20,6 @@ fflush(stdout);
     (lr1>=lr2)?printf("largest : %d",lr1):printf("\nlargest : %d",lr2);
     (sm1<=sm2)?printf("\nsmallest : %d",sm1):printf("\nsmallest : %d",sm2);
     printf(" \n"); 
-// printf("%3d%3d%3d%3d",a,b,c,d);
+
     return 0;
 }
