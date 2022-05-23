@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*html": "html",
+        "typeinfo": "c",
+        "hashtable.h": "c",
+        "cstdio": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "functional": "c",
+        "stdio.h": "c"
+    }
+}
